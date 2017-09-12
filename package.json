@@ -6,7 +6,11 @@
   "scripts": {
     "test": "dn test && dn build -e prod"
   },
-  "author": "",
+  "author": {
+    "name": "Houfeng",
+    "email": "admin@xhou.net",
+    "url": "http://houfeng.net"
+  },
   "license": "MIT",
   "devDependencies": {
     "react": "^15.6.1",
