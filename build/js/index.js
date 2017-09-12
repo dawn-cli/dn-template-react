@@ -22750,25 +22750,25 @@ var App = function (_Component) {
   App.prototype.render = function render() {
     return _react2.default.createElement(
       'div',
-      { className: 'App' },
+      { className: 'app' },
       _react2.default.createElement(
         'div',
-        { className: 'App-header' },
-        _react2.default.createElement('img', { src: _logo2.default, className: 'App-logo', alt: 'logo' }),
+        { className: 'app-header' },
+        _react2.default.createElement('img', { src: _logo2.default, className: 'app-logo', alt: 'logo' }),
         _react2.default.createElement(
           'h2',
           null,
-          'Welcome to React'
+          'Welcome to Dawn & React'
         )
       ),
       _react2.default.createElement(
         'p',
-        { className: 'App-intro' },
+        { className: 'app-intro' },
         'To get started, edit ',
         _react2.default.createElement(
           'code',
           null,
-          'src/App.js'
+          'src/components/App.js'
         ),
         ' and save to reload.'
       )
