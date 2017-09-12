@@ -6,7 +6,7 @@
 
 使用这个模板需要先安装好 Dawn [https://github.com/alibaba/dawn](https://github.com/alibaba/dawn)
 
-初始化
+### 初始化
 ```sh
 mkdir demo
 cd demo
@@ -15,22 +15,22 @@ dn init -t react
 
 通过如上命令便可以完成项目的初始化
 
-测试
+### 测试
 ```sh
 dn test
 ```
 
-开发
+### 开发
 ```sh
 dn dev
 ```
 
-构建
+### 构建
 ```sh
 dn dev
 ```
 
-发布
+### 发布
 ```
 dn publish
 ```
