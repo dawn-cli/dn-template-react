@@ -9,7 +9,6 @@ dev:
   - name: webpack
     watch: true
   - name: server
-    port: 8001
   - name: browser-sync
 
 build:
